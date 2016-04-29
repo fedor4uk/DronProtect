@@ -1,0 +1,5 @@
+<Config>
+  <Rayon Num="DangerZone" L="28.510308" B="50.215659" Port="COM3" Threshold="20" Adres="" />
+  <Rayon Num="DangerZone" L="28.552193" B="50.230417" Port="COM4" Threshold="25" Adres="" />
+  <Rayon Num="DangerZone" L="28.557772" B="50.198803" Port="COM5" Threshold="20" Adres="" />
+</Config>

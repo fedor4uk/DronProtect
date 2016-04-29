@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<kml>
+  <Placemark>
+    <name>1</name>
+    <description>X: 5563600.141   Y: 5608547.799
+Lat: 50°11'37.4"   Lon: 28°31'12.4"</description>
+    <Point>
+      <extrude>1</extrude>
+      <coordinates>28.520101184845,50.1937324074625,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>2</name>
+    <description>X: 5563519.477   Y: 5608558.373
+Lat: 50°11'34.8"   Lon: 28°31'12.8"</description>
+    <Point>
+      <extrude>1</extrude>
+      <coordinates>28.520226184845,50.1930055556106,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>3</name>
+    <description>X: 5563470.821   Y: 5608471.182
+Lat: 50°11'33.3"   Lon: 28°31'08.4"</description>
+    <Point>
+      <extrude>1</extrude>
+      <coordinates>28.518991809845,50.1925842593143,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
